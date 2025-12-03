@@ -24,10 +24,10 @@
   
 
 ## Skills
-**Product & Execution:** MVP Design & Launch • Product Discovery • Market Validation • Roadmap Planning • Customer Acquisition
-**Leadership & Operations:** Team Leadership • Daily Operations • Agile Iteration • Problem-Solving
-**Entrepreneurship & Business:** Investor Pitching • Early-Stage Fundraising • Business Model Validation • User Research
-**Technical & Tools:** Product Management • Automation & Workflow • Basic Software Development Understanding (APIs, SaaS integrations) • Data Analysis & Insights (Excel, Google Sheets, basic SQL) • Prototyping & MVP Validation
+- **Product & Execution:** MVP Design & Launch • Product Discovery • Market Validation • Roadmap Planning • Customer Acquisition
+- **Leadership & Operations:** Team Leadership • Daily Operations • Agile Iteration • Problem-Solving
+- **Entrepreneurship & Business:** Investor Pitching • Early-Stage Fundraising • Business Model Validation • User Research
+- **Technical & Tools:** Product Management • Automation & Workflow • Basic Software Development Understanding (APIs, SaaS integrations) • Data Analysis & Insights (Excel, Google Sheets, basic SQL) • Prototyping & MVP Validation
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
