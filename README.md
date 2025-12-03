@@ -1,6 +1,6 @@
 # About Me
 
-#### I’m Mohsen (23), a self-taught founder from Morocco with one obsession: building what matters, faster than anyone else. I left university multiple times because I realized real learning happens in the trenches, not in classrooms.
+#### I’m Mohsen(23), a self-taught founder from Morocco. During my gap year, I dedicated 100+ hours per week to building and iterating projects, most of which failed, but each taught me something valuable. I launched MVPs, tested ideas with real users, and led small teams, gaining hands-on experience in investor pitching, product design, customer acquisition, and operations.
 
 ## Education
 - Dropped Out, Computer science | The University of Suptechnology (_May 2022_)								       		
@@ -25,9 +25,9 @@
 
 ## Skills
 - **Product & Execution:** MVP Design & Launch • Product Discovery • Market Validation • Roadmap Planning • Customer Acquisition
-- **Leadership & Operations:** Team Leadership • Daily Operations • Agile Iteration • Problem-Solving
+- **Leadership & Operations:** Team Leadership • Daily Operations • Agile Iteration • Problem-Solving • Extreme Resilience
 - **Entrepreneurship & Business:** Investor Pitching • Early-Stage Fundraising • Business Model Validation • User Research
-- **Technical & Tools:** Product Management • Automation & Workflow • Basic Software Development Understanding (APIs, SaaS integrations) • Data Analysis & Insights (Excel, Google Sheets, basic SQL) • Prototyping & MVP Validation
+- **Technical & Tools:** Product Management (Figma, Notion, Jira/Trello) • Automation (N8N, Zapier) • Basic Software Development (APIs, SaaS integrations) • Data Analysis & Insights (Excel, Google Sheets, basic SQL) • Prototyping & MVP Validation
 
 
 
