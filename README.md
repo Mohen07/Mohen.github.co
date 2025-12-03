@@ -8,7 +8,7 @@
 - Gap year, SatPrep | Scholarship canceled due to bureaucracy (_May 2024_)
 
 ## Work Experience
-** Co-Founder @ Vitameals - Students Meal Delivery (_June 2023 - Present_)**
+**Co-Founder @ Vitameals - Students Meal Delivery (_June 2023 - Present_)**
 - Created the concept: a Glovo-style solution for students
 - Developed & published an Android MVP on the Play Store
 - Designed user journeys and the app structure
