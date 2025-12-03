@@ -5,7 +5,7 @@
 ## Education
 - Dropped Out, CS | The University of Suptechnology (_May 2022_)								       		
 - Dropped Out, Economics	| FSJSC  (_December 2023_)
-- GapYear, SAT | Scored 1080 on first try; scholarship canceled due to bureaucracy (_May 2024_)
+- GapYear, SAT | Scholarship canceled due to bureaucracy (_May 2024_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
